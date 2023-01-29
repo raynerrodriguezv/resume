@@ -18,7 +18,7 @@
 
 2022--Present 
 :    **Tecnico de servicios,** *Grupo CSI S.A*
-
+<br>
 2017--21 
 :   **Soporte Tecnico Canal Telefonico,** *Trilogy Dominicana S.A (Viva RD)
 
@@ -43,7 +43,8 @@
 
 
 
-`07/2021 – 09/2021` **[Administracion de servidores,** *Codigo Libre*](https://drive.google.com/file/d/1FwTM2fSXKhdj_POb0WcbMdgcRrm-JjWj/view?usp=sharing)**
+07/2021--09/2021
+:    **[Administracion de servidores,** *Codigo Libre*](https://drive.google.com/file/d/1FwTM2fSXKhdj_POb0WcbMdgcRrm-JjWj/view?usp=sharing)**
 
 
 07/2020--09/2020
@@ -53,9 +54,9 @@
 
 ## **Referencias**
 
-**Ing. Micheel Anderson Rosario** 8*9*****83
+**Ing. Micheel Anderson Rosario** 8*9***4*83
 
-**Idiomas**
+## **Idiomas**
 
 **Ingles, B1**
 
