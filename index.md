@@ -1,10 +1,9 @@
-
 ---
 layout: Resume
 title: Rayner Rodriguez's CV
 ---
 
-# Rayner Alexander Rodriguez Valera
+<div align="center"># Rayner Alexander Rodriguez Valera</div>
 Soporte tecnico, Administrador de sistemas y Azure cloud jr.
 
 
@@ -18,12 +17,11 @@ Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 
 
 ## **Experiencia Profesional**
 
-2022--23 
+2022--Present 
 :    **Tecnico de servicios,** *Grupo CSI S.A*
 
-Santo Domingo Oeste Puesta en marcha de equipos de liberacion para algunos de la cartera de clientes.
-
-`09/2017 – 08/2021` : **Soporte Tecnico Canal Telefonico,** *Trilogy Dominicana S.A (Viva RD)* Distrito Nacional Rep. del canal telefonico en el area de soporte viva TV y equipos GSM
+2017--21 
+:   **Soporte Tecnico Canal Telefonico,** *Trilogy Dominicana S.A (Viva RD)
 
 ## **Certificaciones**
 
