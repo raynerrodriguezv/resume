@@ -2,11 +2,12 @@
 
 <h1 align="center"> Rayner Alexander Rodriguez Valera</h1>
 <p align="center">Soporte tecnico, Administrador de sistemas y Azure cloud jr.</p>
-
+<hr>
 
 ```
-Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 28/10/199*
+        Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 28/10/199*
 ```
+<hr>
 
 
 ## **Educacion**
@@ -29,9 +30,10 @@ Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 
 
 ## **Cursos**
 
-```06/2022 – 06/2022``` **[Remote Management with PowerShell,** *Pluralsight*](https://app.pluralsight.com/profile/rayner-rodriguez-v)**
+06/2022--06/2022
+:    **[Remote Management with PowerShell,** *Pluralsight*](https://app.pluralsight.com/profile/rayner-rodriguez-v)**
 
-Facilita la automatización, administración y configuración de sistemas multiplataforma de manera segura
+
 
 03/2022--03/2022
 :    **Beginner's Guide to Project Management,** *Pluralsight*
@@ -39,13 +41,15 @@ Facilita la automatización, administración y configuración de sistemas multip
 10/2021--12/2021
 :    **Ansible Essentials (DO007),** *RedHat / CodigoLibre*
 
-Software Opensource de RedHat para configurar y administrar ordenadores, Ansible es una herramienta de orquestacion
+
 
 `07/2021 – 09/2021` **[Administracion de servidores,** *Codigo Libre*](https://drive.google.com/file/d/1FwTM2fSXKhdj_POb0WcbMdgcRrm-JjWj/view?usp=sharing)**
 
-Despliegue de servicios DNS, DHCP, Proxy, Docker, FTP, Samba, NFS, correo electronico. 07/2020 – 09/2020 **Bases de datos,** *CodigoLibre*
 
-Creacion y manipulacion de bases de datos relacionales(MS-sql, oracle, MySql) y no relacionales (MongoDB)
+07/2020--09/2020
+:    **Bases de datos,** *CodigoLibre*
+
+
 
 ## **Referencias**
 
