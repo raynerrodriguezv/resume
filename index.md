@@ -1,7 +1,9 @@
+
 ---
 layout: Resume
 title: Rayner Rodriguez's CV
 ---
+
 # Rayner Alexander Rodriguez Valera
 Soporte tecnico, Administrador de sistemas y Azure cloud jr.
 
@@ -9,13 +11,15 @@ Soporte tecnico, Administrador de sistemas y Azure cloud jr.
 ```
 Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 28/10/199*
 ```
+
 ## **Educacion**
 
 **Ingenieria en sistemas y computacion,** *Universidad O&M* 6to. Cuatrimestre
 
 ## **Experiencia Profesional**
 
-`04/2022 – present` : **Tecnico de servicios,** *Grupo CSI S.A*
+2022--23 
+:    **Tecnico de servicios,** *Grupo CSI S.A*
 
 Santo Domingo Oeste Puesta en marcha de equipos de liberacion para algunos de la cartera de clientes.
 
