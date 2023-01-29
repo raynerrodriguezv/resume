@@ -2,6 +2,8 @@
 
 <h1 align="center"> Rayner Alexander Rodriguez Valera</h1>
 <p align="center">Soporte tecnico, Administrador de sistemas y Azure cloud jr.</p>
+
+
 <hr>
 
 ```
@@ -18,8 +20,8 @@
 
 2022--Present 
 :    **Tecnico de servicios,** *Grupo CSI S.A*
-<br>
-2017--21 
+
+2017--10/21
 :   **Soporte Tecnico Canal Telefonico,** *Trilogy Dominicana S.A (Viva RD)
 
 ## **Certificaciones**
@@ -35,8 +37,6 @@
 
 
 
-03/2022--03/2022
-:    **Beginner's Guide to Project Management,** *Pluralsight*
 
 10/2021--12/2021
 :    **Ansible Essentials (DO007),** *RedHat / CodigoLibre*
