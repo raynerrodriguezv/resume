@@ -9,27 +9,27 @@ Soporte tecnico, Administrador de sistemas y Azure cloud jr.
 ```
 Santo Domingo - raynerrodriguezv[@]gmail.com  | (tel:8*9**6**** - 8*9957****) | 28/10/199*
 ```
-**Educacion**
+## **Educacion**
 
 **Ingenieria en sistemas y computacion,** *Universidad O&M* 6to. Cuatrimestre
 
-**Experiencia Profesional**
+## **Experiencia Profesional**
 
-`04/2022 – present` **Tecnico de servicios,** *Grupo CSI S.A*
+`04/2022 – present` : **Tecnico de servicios,** *Grupo CSI S.A*
 
 Santo Domingo Oeste Puesta en marcha de equipos de liberacion para algunos de la cartera de clientes.
 
 `09/2017 – 08/2021` : **Soporte Tecnico Canal Telefonico,** *Trilogy Dominicana S.A (Viva RD)* Distrito Nacional Rep. del canal telefonico en el area de soporte viva TV y equipos GSM
 
-**Certificaciones**
+## **Certificaciones**
 
 [**Microsoft Certified: Azure Fundamentals**](https://www.linkedin.com/posts/rayner-rodriguez-152944149_microsoft-certified-azure-fundamentals-was-activity-6889608817496084480-su7w)
 
 *AZ-900, numero de certificacion: I111-5024 (Enero 2022)*
 
-**Cursos**
+## **Cursos**
 
-<time>06/2022 – 06/2022</time> **[Remote Management with PowerShell,** *Pluralsight*](https://app.pluralsight.com/profile/rayner-rodriguez-v)**
+```06/2022 – 06/2022``` **[Remote Management with PowerShell,** *Pluralsight*](https://app.pluralsight.com/profile/rayner-rodriguez-v)**
 
 Facilita la automatización, administración y configuración de sistemas multiplataforma de manera segura
 
@@ -45,7 +45,7 @@ Despliegue de servicios DNS, DHCP, Proxy, Docker, FTP, Samba, NFS, correo electr
 
 Creacion y manipulacion de bases de datos relacionales(MS-sql, oracle, MySql) y no relacionales (MongoDB)
 
-**Referencias**
+## **Referencias**
 
 **Ing. Micheel Anderson Rosario** 8*9*****83
 
